@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - adventure
 directors_cut: https://cykelkatalogen.itch.io/js13k2025
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
